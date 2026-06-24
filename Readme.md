@@ -83,8 +83,6 @@ It provides secure authentication, product management, cart operations, order pr
 
 ## 📂 Project Structure
 
-## 📂 Project Structure
-
 ```bash
 E-Commerce
 │
